@@ -23,7 +23,7 @@ Aspiring  AI Engineer | Passionate about coding, AI, and Web Development
 
 [![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![Sharanabasappa18][github-image]](https://github.com/Sharanabasappa18)
 
-**[sharanabasappa](https://ph7.me)**, a highly passionate, zen &amp; pragmatic software engineer 😊
+**[sharanabasappa](https://ph7.me)**, a highly passionate, zen &amp; pragmatic AI engineer 😊
 
 
 ## ⚖️ License
